@@ -31,6 +31,30 @@
       "category": "Setup",
       "price": 1300,
       "createdAt": "2022-07-29T19:30:44.505Z"
+    },
+    {
+      "description": "RV",
+      "category": "job",
+      "price": 5000,
+      "type": "income",
+      "createdAt": "2023-08-26T22:05:45.532Z",
+      "id": 5
+    },
+    {
+      "description": "Monitor Gamer",
+      "category": "Setup",
+      "price": 1200,
+      "type": "outcome",
+      "createdAt": "2023-08-26T22:06:27.143Z",
+      "id": 6
+    },
+    {
+      "description": "Pastel",
+      "category": "Alimentação",
+      "price": 8,
+      "type": "outcome",
+      "createdAt": "2023-08-26T22:20:54.512Z",
+      "id": 7
     }
   ]
 }
